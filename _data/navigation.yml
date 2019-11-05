@@ -2,7 +2,7 @@
 
 - text: Home
   url: /
-- text: Contact
-  url: /contact
 - text: Projects
   url: /blog
+- text: Contact
+  url: /contact
